@@ -1,6 +1,9 @@
 # Filtervliesse
 
 ## Corosorb
+10.07.2024 Reissfestigkeit [(hier abgelegt)](\\OTS0001\Data02\X0_Transfer\FEWATEC\COROSORB\OST_Reissprüfung\241230_ONTRONIX_Reissversuche) geprüft an der OST-Buchs mit Kerstin Kern
+
+
 
 ## MN 85/220 BF
 

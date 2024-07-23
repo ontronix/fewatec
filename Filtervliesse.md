@@ -6,11 +6,15 @@
 
 <!-- so macht man einenKommentar -->
 
-> [!CAUTION] TODO: Ersatz finden
-> 10.07.2024 **Reissfestigkeit** [(hier abgelegt)](\\OTS0001\Data02\X0_Transfer\FEWATEC\COROSORB\OST_Reissprüfung\241230_ONTRONIX_Reissversuche) geprüft an der OST-Buchs mit Kerstin Kern
+> [!CAUTION]
+> **TODO**: Ersatz finden
+> 
+> 10.07.2024 **Reissfestigkeit** [(hier abgelegt)](\\OTS0001\Data02\X0_Transfer\FEWATEC\COROSORB\OST_Reissprüfung\241230_ONTRONIX_Reissversuche) geprüft an der OST-Buchs mit Kerstin Kern  
 > 23.0.2024 | E-Mail von | <lujunrong@nonwoven-shuntai.com>
-  
-    I confirmed with our production team, our sample pore size is about 5um.
+>
+> ```
+> I confirmed with our production team, our sample pore size is about 5um.
+> ```
   
 ## MN 85/220 BF
 
